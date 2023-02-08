@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="AbsoluteLayout">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../Aplicaciones/Tomocomd/SiliS-PTOXRA/lib/org.RDKitDoc.jar!/doc" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../../../../Aplicaciones/Tomocomd/SiliS-PTOXRA/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../Aplicaciones/Tomocomd/SiliS-PTOXRA/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../Aplicaciones/Tomocomd/SiliS-PTOXRA/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../Aplicaciones/Tomocomd/SiliS-PTOXRA/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../Aplicaciones/Tomocomd/SiliS-PTOXRA/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../Aplicaciones/Tomocomd/SiliS-PTOXRA/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../Aplicaciones/Tomocomd/SiliS-PTOXRA/lib" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
